@@ -22,7 +22,7 @@ apt-get install git-core -y
 3. Clone your repo from a public git, and update the owner of the files to ghost user and group
 
 ```
-git clone git@github.com:mschmulen/Driskill.git
+git clone https://github.com/mschmulen/Driskill
 chown -R ghost:ghost Driskill
 ```
 
